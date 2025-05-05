@@ -1,0 +1,32 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f0f2f5;
+  }
+  header {
+    background-color: #004080;
+    color: white;
+  }
+  footer {
+    background-color: #004080;
+    color: white;
+  }
+  footer a {
+    color: white;
+    margin: 0 10px;
+  }
+  h2 {
+    margin-top: 40px;
+    color: #004080;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    color: white;
+  }
+  .dashboard-card {
+    border-radius: 12px;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+  }
+  .form-control, .form-select {
+    border-radius: 8px;
+  }
